@@ -2,7 +2,7 @@ JS-UIX Networking
 ==================
 
 
-<a href="http://www.masswerk.at/index.html">Masswerk</a> brought us the amazing JSUIX operating system.
+<a href="http://www.masswerk.at/index.html">Masswerk</a> brought us the amazing JSUIX system.
 
 
 I figured it would be fun to write an in-browser virtual networking protocol for JSUIX that includes:
